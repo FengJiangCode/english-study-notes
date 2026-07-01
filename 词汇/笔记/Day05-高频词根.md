@@ -1,6 +1,6 @@
 # Day 05 高频词根记忆
 
-> 📊 8 个词根组 · 108 个单词
+> 📊 8 个词根组 · 95 个单词
 
 ---
 
@@ -13,9 +13,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 这是考研最高频的词根之一，围绕"抓/拿/接收"派生出大量常用词。
 ```
 
-### 🧩 子分类
-
-**① 接收链：receive → reception → receipt → receptor → recipient**
+### 🧩 ① 接收链：receive → reception → receipt → receptor → recipient
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -25,7 +23,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **receptor** /rɪˈseptər/ | n. 感受器；受体 | recept+or(物) |
 | **recipient** /rɪˈsɪpiənt/ | n. 接受者 | re+cip(拿)+ient(人) |
 
-**② 接受链：accept → acceptable → acceptance → unacceptable**
+### 🧩 ② 接受链：accept → acceptable → acceptance → unacceptable
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -34,7 +32,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **acceptance** /əkˈseptəns/ | n. 接受；认可 | |
 | **unacceptable** /ˌʌnəkˈseptəb(ə)l/ | adj. 不可接受的 | |
 
-**③ 概念链：concept → conception → misconception → conceptual / conceive → conceivably → inconceivable**
+### 🧩 ③ 概念链：concept → conception → misconception → conceptual / conceive → conceivably → inconceivable
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -46,7 +44,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **conceivably** /kənˈsiːvəbli/ | adv. 可以想象地 | |
 | **inconceivable** /ˌɪnkənˈsiːvəb(ə)l/ | adj. 难以想象的 | |
 
-**④ 感知链：perceive → perception → perceptive**
+### 🧩 ④ 感知链：perceive → perception → perceptive
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -54,7 +52,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **perception** /pərˈsepʃ(ə)n/ | n. 感觉；洞察力 | |
 | **perceptive** /pərˈseptɪv/ | adj. 观察敏锐的 | |
 
-**⑤ 欺骗链：deceive → deception → deceptive / self-deception → self-deceiving → self-deceptive**
+### 🧩 ⑤ 欺骗链：deceive → deception → deceptive / self-deception → self-deceiving → self-deceptive
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -62,11 +60,11 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **deception** /dɪˈsepʃ(ə)n/ | n. 欺骗 | |
 | **deceptive** /dɪˈseptɪv/ | adj. 欺骗性的 | |
 | **deceptiveness** /dɪˈseptɪvnɪs/ | n. 欺骗性 | |
-| **self-deception** | n. 自我欺骗 | |
-| **self-deceiving** | adj. 自我欺骗的 | |
-| **self-deceptive** | adj. 自我欺骗的 | |
+| **self-deception** /ˌself dɪˈsepʃ(ə)n/ | n. 自我欺骗 | |
+| **self-deceiving** /ˌself dɪˈsiːvɪŋ/ | adj. 自我欺骗的 | |
+| **self-deceptive** /ˌself dɪˈseptɪv/ | adj. 自我欺骗的 | |
 
-**⑥ 除外/预期：except → exception → exceptional / expect / susceptible → susceptibility**
+### 🧩 ⑥ 除外/预期：except → exception → exceptional / expect / susceptible → susceptibility
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -99,7 +97,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **centric** /ˈsentrɪk/ | adj. 中央的 | |
 | **central** /ˈsentrəl/ | adj. 中心的；最重要的 | |
 | **centralize/centralise** /ˈsentrəlaɪz/ | v. 集中 | |
-| **centralization/centralisation** | n. 集中化 | |
+| **centralization/centralisation** /ˌsentrələˈzeɪʃ(ə)n/ | n. 集中化 | |
 | **concentrate** /ˈkɑːns(ə)ntreɪt/ | v. 集中；全神贯注 | con(一起)+centr+ate→聚到中心 |
 | **concentration** /ˌkɑːns(ə)nˈtreɪʃ(ə)n/ | n. 专注；集中 | |
 
@@ -137,9 +135,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 
 ## 词根六：-cid-/-cis-/-cas-（切、落下）
 
-### 🧩 子分类
-
-**① 切割→决定链：decide → decision → decisive / suicide / precise → precisely → precision**
+### 🧩 ① 切割→决定链：decide → decision → decisive / suicide / precise → precisely → precision
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -152,7 +148,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **precisely** /prɪˈsaɪsli/ | adv. 精确地 | |
 | **precision** /prɪˈsɪʒ(ə)n/ | n. 精确(度) | |
 
-**② 落下→偶然链：casual → casually / casualty / occasion → occasional → occasionally**
+### 🧩 ② 落下→偶然链：casual → casually / casualty / occasion → occasional → occasionally
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -164,7 +160,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **occasional** /əˈkeɪʒən(ə)l/ | adj. 偶然的 | |
 | **occasionally** /əˈkeɪʒnəli/ | adv. 偶尔 | |
 
-**③ 落下→发生链：incident → incidental → incidentally → incidence / coincidence → coincide → coincident**
+### 🧩 ③ 落下→发生链：incident → incidental → incidentally → incidence / coincidence → coincide → coincident
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -176,7 +172,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **coincide** /ˌkəʊɪnˈsaɪd/ | v. 一致；同时发生 | |
 | **coincident** /kəˈɪnsɪdənt/ | adj. 巧合的 | |
 
-**④ 落下→瀑布/腐烂：cascade / decay**
+### 🧩 ④ 落下→瀑布/腐烂：cascade / decay
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -187,7 +183,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 
 ## 词根七：-chron-（时间）+ -circ-（圆）
 
-### -chron- 时间
+### 🧩 -chron- 时间
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -195,7 +191,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **chronical** /ˈkrɒnɪkəl/ | adj. 慢性的 | = chronic |
 | **chronicle** /ˈkrɑːnɪk(ə)l/ | n. 编年史 v. 记录 | chron(时间)+icle→按时间记载 |
 
-### -circ- 圆
+### 🧩 -circ- 圆（基础）
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -204,6 +200,11 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **circulate** /ˈsɜːrkjəleɪt/ | v. 循环；流通 | |
 | **circulation** /ˌsɜːrkjəˈleɪʃ(ə)n/ | n. 流通；发行量 | |
 | **circular** /ˈsɜːrkjələr/ | adj. 圆形的；循环的 | |
+
+### 🧩 -circ- 圆（循环）
+
+| 单词 | 释义 | 记忆线索 |
+|------|------|------|
 | **cycle** /ˈsaɪk(ə)l/ | n. 循环；周期 | cyc=circ 圆 |
 | **cyclic** /ˈsaɪklɪk/ | adj. 循环的；周期的 | |
 | **cyclist** /ˈsaɪklɪst/ | n. 骑自行车的人 | cycle+ist(人) |
@@ -221,7 +222,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | **civil** /ˈsɪv(ə)l/ | adj. 公民的；国内的；民用的；文明的 | |
 | **civility** /səˈvɪləti/ | n. 礼貌；客气 | |
 | **civilian** /səˈvɪliən/ | n. 平民 adj. 平民的 | civ+il+ian(人) |
-| **civilization/civilisation** | n. 文明 | |
+| **civilization/civilisation** /ˌsɪvələˈzeɪʃ(ə)n/ | n. 文明 | |
 | **civilize/civilise** /ˈsɪvəlaɪz/ | v. 使开化；教化 | |
 
 ### -claim- 呼喊
@@ -359,6 +360,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | 提示 | 写出单词 |
 |------|------|
 | 慢性的/长期的 | ________ |
+| 慢性的(=chronic) | ________ |
 | 编年史 | ________ |
 | 圆/圈(n.) | ________ |
 | 电路 | ________ |
@@ -367,6 +369,7 @@ ceive/cept = take, hold, seize → 抓、拿、接收
 | 圆形的 | ________ |
 | 周期/循环(n.) | ________ |
 | 循环的 | ________ |
+| 骑自行车的人 | ________ |
 | 回收(v.) | ________ |
 | 回收(n.) | ________ |
 

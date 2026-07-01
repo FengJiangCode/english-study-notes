@@ -1,6 +1,6 @@
 # Day 01 高频词根记忆
 
-> 📊 13 个词根组 · 71 个单词
+> 📊 13 个词根组 · 74 个单词（含拼写变体）
 
 ---
 
@@ -114,59 +114,49 @@ act → 行动本身；ag → 行动的人/机构
 
 本组是 Day 01 最大的词根组，单词最多，但**只要抓住 act = "行动/做"这个核心**，所有派生词都有迹可循。
 
-### 🔗 act 核心家族矩阵
-
-```
-                    ┌─ action (n.)        行动、行为
-                    ├─ active (adj.)       积极的、主动的
-                    ├─ actively (adv.)     积极地
-                    ├─ activist (n.)       积极分子
-act (行动/做)  ────├─ activate (v.)       激活、使活动
-                    ├─ activity (n.)       活动
-                    ├─ actual (adj.)       真实的、实际的 ← 做出来的才算真的
-                    ├─ actually (adv.)     实际上
-                    ├─ react (v.)          反应 ← re(回) + act = 回应行动
-                    ├─ interact (v.)       互动 ← inter(之间) + act = 互相作用
-                    ├─ exact (adj.)        精确的 ← ex(出) + act = 做出来分毫不差
-                    ├─ enact (v.)          制定(法律)；扮演 ← en(使) + act(法案)
-                    ├─ agent (n.)          代理人 ← ag(做) + ent(人) = 做事的人
-                    ├─ agency (n.)         机构、代理处
-                    └─ agenda (n.)         议程 ← 要做的事
-```
-
 ### 🧩 分组记忆
 
-**① 基础链：act → action → active → activity**
+**① 基础链：action → active → activity**
 
-```
-act(行动) → action(行动/行为，名词化)
-          → active(行动多的 → 积极的)
-          → activity(活动，行为的总称)
-```
+| 单词 | 拆解 | 释义 | 记忆线索 |
+|------|------|------|------|
+| **action** /ˈækʃ(ə)n/ | act + ion | n. 行动；行为 | 导演喊"Action!" |
+| **inaction** /ɪnˈækʃ(ə)n/ | in + action | n. 无行动；不作为 | in(不)+action |
+| **active** /ˈæktɪv/ | act + ive | adj. 积极的；活跃的 | act(行动)+ive→多行动的 |
+| **actively** /ˈæktɪvli/ | active + ly | adv. 积极地 | |
+| **activist** /ˈæktɪvɪst/ | active + ist(人) | n. 积极分子 | |
+| **activate** /ˈæktɪveɪt/ | active + ate(使) | v. 激活 | |
+| **activity** /ækˈtɪvəti/ | active + ity | n. 活动 | |
 
-**② 真实链：act → actual → actually**
+**② 真实链：actual → actually**
 
-```
-"做出来的才算真的"——通过行动证明的才是真实的
-act + ual(形容词后缀) = actual 真实的
-actual + ly = actually 实际上
-```
+| 单词 | 拆解 | 释义 | 记忆线索 |
+|------|------|------|------|
+| **actual** /ˈæktʃuəl/ | act + ual | adj. 真实的；实际的 ★ | "做出来的才算真的" |
+| **actually** /ˈæktʃuəli/ | actual + ly | adv. 实际上；竟然 | |
 
-**③ 互动链：react / interact / exact**
+**③ 互动链：react → interact → exact**
 
-```
-re(回) + act = react     回应动作 → 反应
-inter(之间) + act = interact  互相作用 → 互动
-ex(出，彻底) + act = exact  做得彻底精准 → 精确的
-```
+| 单词 | 拆解 | 释义 | 记忆线索 |
+|------|------|------|------|
+| **react** /riˈækt/ | re(回) + act | v. 反应 | 回应行动→反应 |
+| **reaction** /riˈækʃ(ə)n/ | react + ion | n. 反应 | |
+| **reactor** /riˈæktər/ | react + or | n. 核反应堆 | |
+| **exact** /ɪɡˈzækt/ | ex(出) + act | adj. 精确的 v. 强求 | 做得精准→精确 |
+| **exactly** /ɪɡˈzæktli/ | exact + ly | adv. 确切地；正是 | |
+| **interact** /ˌɪntərˈækt/ | inter(之间) + act | v. 互动；交流 | 互相作用 |
+| **interaction** /ˌɪntərˈækʃ(ə)n/ | interact + ion | n. 相互作用 | |
+| **interactive** /ˌɪntərˈæktɪv/ | interact + ive | adj. 交互的 | |
+| **transaction** /trænˈzækʃ(ə)n/ | trans(交换) + action | n. 交易；业务 | |
 
-**④ 代理人链：ag(做) → agent → agency → agenda**
+**④ 代理人/制定链：enact → agent → agency → agenda**
 
-```
-ag(做) + ent(人) = agent     做事的人 → 代理人
-agent + cy(处所) = agency     代理人办公处 → 机构
-ag(做) + enda(应做) = agenda  应该做的事 → 议程
-```
+| 单词 | 拆解 | 释义 | 记忆线索 |
+|------|------|------|------|
+| **enact** /ɪˈnækt/ | en(使) + act(法案) | v. 制定(法律)；扮演 | 使之成为法案 |
+| **agent** /ˈeɪdʒənt/ | ag(做) + ent(人) | n. 代理人；动因 ★ | 做事的人 |
+| **agency** /ˈeɪdʒənsi/ | ag(做) + ency | n. 机构；代理处 | |
+| **agenda** /əˈdʒendə/ | ag(做) + enda | n. 议程 | 要做的事 |
 
 ### 📝 必背例句
 
@@ -182,16 +172,14 @@ ag(做) + enda(应做) = agenda  应该做的事 → 议程
 
 > **agent**: He works as a house **agent**. 他是一名房产经纪人。
 
-### ⑤ 痛苦链：agitate / agony
+### ⑤ 痛苦链：agitate → agony
 
-`ag-` 的另一条线：反复搅动 → 心神不宁 → 痛苦
-
-| 单词 | 释义 | 记忆线索 |
-|------|------|------|
-| **agitate** /ˈædʒɪteɪt/ | v. 煽动；搅动；使焦虑 | ag(做/驱动) + itate → 反复驱动 → 煽动 |
-| **agitator** /ˈædʒɪteɪtər/ | n. 煽动者；搅拌器 | agitate + or(人/物) |
-| **agony** /ˈæɡəni/ | n. 极大的痛苦 | agon(挣扎) + y → 痛苦的挣扎 |
-| **agonize** /ˈæɡənaɪz/ | v. 苦苦思索；使极度痛苦 | agony + ize(动词化) |
+| 单词 | 拆解 | 释义 | 记忆线索 |
+|------|------|------|------|
+| **agitate** /ˈædʒɪteɪt/ | ag(驱动) + itate | v. 煽动；搅动；使焦虑 | 反复驱动→煽动 |
+| **agitator** /ˈædʒɪteɪtər/ | agitate + or | n. 煽动者 | |
+| **agony** /ˈæɡəni/ | agon(挣扎) + y | n. 极大的痛苦 | |
+| **agonize** /ˈæɡənaɪz/ | agony + ize | v. 苦苦思索 | agonise 同义 |
 
 ---
 

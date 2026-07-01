@@ -1,6 +1,6 @@
 # Day 04 高频词根记忆
 
-> 📊 7 个词根组 · 102 个单词
+> 📊 6 个词根组 · 105 个单词
 
 ---
 
@@ -126,28 +126,28 @@ occupy占据occupation是职业
 
 ### 🔗 单词家族
 
-**① 汽车/事业链**
+### 🧩 ① 汽车/事业链
 
 | 单词 | 释义 |
 |------|------|
 | **career** /kəˈrɪr/ | n. 事业；职业生涯 |
 | **carpet** /ˈkɑːrpɪt/ | n. 地毯 |
 
-**② 恐惧链：scare → scary**
+### 🧩 ② 恐惧链
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
 | **scare** /sker/ | v./n. 惊吓 | s(加强)+care(关心)→太过关心→吓到 |
 | **scary** /ˈskeri/ | adj. 吓人的 | |
 
-**③ 缺乏链：scarce → scarcely**
+### 🧩 ③ 缺乏链
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
 | **scarce** /skers/ | adj. 缺乏的 | |
 | **scarcely** /ˈskersli/ | adv. 几乎不；刚刚 | |
 
-**④ 恐惧同义词链：dread → dreadful / fright → frighten**
+### 🧩 ④ 恐惧同义词链
 
 | 单词 | 释义 |
 |------|------|
@@ -156,7 +156,7 @@ occupy占据occupation是职业
 | **fright** /fraɪt/ | n. 恐惧 |
 | **frighten** /ˈfraɪt(ə)n/ | v. 使害怕 |
 
-**⑤ 慈善链：charity → charitable → charitably**
+### 🧩 ⑤ 慈善链
 
 | 单词 | 释义 |
 |------|------|
@@ -164,7 +164,7 @@ occupy占据occupation是职业
 | **charitable** /ˈtʃærətəb(ə)l/ | adj. 慈善的 |
 | **charitably** /ˈtʃærətəbli/ | adv. 慈善地 |
 
-**⑥ 清晰/关心链：clarity → concern → concerning → unconcerned**
+### 🧩 ⑥ 清晰/关心链
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -173,7 +173,7 @@ occupy占据occupation是职业
 | **concerning** /kənˈsɜːrnɪŋ/ | prep. 关于 | concern+ing |
 | **unconcerned** /ˌʌnkənˈsɜːrnd/ | adj. 不关心的 | un+concerned |
 
-**⑦ 辨别链：discern → discernable → discernible**
+### 🧩 ⑦ 辨别链
 
 | 单词 | 释义 | 记忆线索 |
 |------|------|------|
@@ -181,7 +181,7 @@ occupy占据occupation是职业
 | **discernable** /dɪˈsɜnəb(ə)l/ | adj. 可辨别的 | |
 | **discernible** /dɪˈsɜːrnəb(ə)l/ | adj. 可识别的 | |
 
-**⑧ 好奇链：curious → curiosity → curiously**
+### 🧩 ⑧ 好奇链
 
 | 单词 | 释义 |
 |------|------|
@@ -296,15 +296,13 @@ ceed/cede/cess = go, walk → 走
 | **assess** /əˈses/ | v. 评定；评价 | as+sss(坐)→坐下来评估 |
 | **cease** /siːs/ | v. 停止；停息 | cease operation 停止运作 |
 
----
+### 🧩 ⑨ -ceive-/-cept- 关联词（与 Day 05 衔接）
 
-## 词根七：非成组词补充
-
-| 单词 | 释义 |
-|------|------|
-| **scale** /skeɪl/ | n. 规模；等级；刻度 |
-| **campaign** /kæmˈpeɪn/ | n. 战役；运动 |
-| （其他已归入以上各组）| |
+| 单词 | 释义 | 记忆线索 |
+|------|------|------|
+| **receive** /rɪˈsiːv/ | v. 接收；收到 | re(回)+ceive(拿)→拿回来→收到 |
+| **reception** /rɪˈsepʃ(ə)n/ | n. 接待；接收 | recept(接收)+ion |
+| **receipt** /rɪˈsiːt/ | n. 收据 | 变体：receive→receipt |
 
 ---
 
@@ -457,3 +455,11 @@ ceed/cede/cess = go, walk → 走
 | 不可接近的 | ________ |
 | 评估(v.) | ________ |
 | 停止(v.) | ________ |
+
+### 十三、-ceive-/-cept- 关联词（Day05 衔接）
+
+| 提示 | 写出单词 |
+|------|------|
+| 接收/收到(v.) | ________ |
+| 接待/接收(n.) | ________ |
+| 收据(n.) | ________ |
