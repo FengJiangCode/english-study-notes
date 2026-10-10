@@ -46,9 +46,50 @@ multiple times a day 每天多次，状语
 
 A few decades ago, many people didn't drink water outside of a meal. Then beverage companies started bottling the production of far-off springs, and now office workers unthinkingly sip bottled water all day long. Chewing gum, once bought primarily by adolescent boys, is now featured in commercials as a breath freshener and teeth cleanser for use after a meal. Skin moisturizers are advertised as part of morning beauty rituals, slipped in between hair brushing and putting on makeup.
 
+decade 十年 
+outside of ... ，在...范围之外 outside of a meal 在吃饭之外/除了吃饭的时候
+beverage 饮料 
+bottling 灌装 
+far-off 遥远的
+springs 熟词僻意 泉水
+sip 小口喝
+bottled 表被动 + 完成："已经被装进瓶里的"。这是个压缩的定语从句——bottled water = water that has been bottled。
+Chewing gum  口香糖，chewing 嚼， gun 橡胶，作为固定复合名词，整体译为 口香糖 
+once 曾经 
+primarily primary 主要的
+adolescent 青春期，青春期的
+be featured 被推荐
+commercial 广告
+moisturizer 保湿霜 n
+advertise 宣传 v
+ritual rituals 习惯，仪式 n
+putting on makeup 
+hair brushing 刷头发，梳理头发 
+putting on makeup 涂上化妆品
+slip in 滑入，插入
+
+几十年前，许多人除了在吃饭的时候不喝水。然后饮料公司开始灌装遥远泉水的产品，并且现在的办公室人员不加思考的小口合着瓶装水，一整天。口香糖，曾经主要被青春期男孩购买，现在在广告中被重点推荐，作为我们在饭后一个口气清新剂和牙齿清洁剂。皮肤保湿霜被宣传作为早上美丽习惯的一部分，悄悄插入梳理头发和化妆之间。
+
 “Our products succeed when they become part of daily or weekly patterns,” said Carol Berning, a consumer psychologist who recently retired from Procter & Gamble, the company that sold $ 76 billion of Tide, Crest and other products last year. “Creating positive habits is a huge part of improving our consumers'lives, and it's essential to making new products commercially viable. ”
 
-Through experiments and observation, social scientists like Dr. Berning have learned that there is power in tying certain behaviors to habitual cues through ruthless advertising. As this new science of habit has emerged, controversies have erupted when the tactics have been used to sell questionable beauty creams or unhealthy foods.
+recent adj recently adv 最近的
+retired adj 退休的，retire v 退休
+huge 巨大的
+viable  可行的，可实施的 adj
+
+“当我们的产品成为日常生活或者周模式的一部分时，他们是成功的” CB说， 一位最近从PG退休的消费者心里学家，这家公司Tide，Crest和其他产品去年卖了$ 76 billion。“创建积极的习惯是提高我们的消费者生活的巨大一部分，并且他是一个必要的去制造新的产品商业可实施的”
+
+Through experiments and observation, social scientists like Dr. Berning have learned that there is power in tying certain behaviors to habitual cues through ruthless advertising. As this new science of habit has emerged, controversies have erupted when the tactics have been used to sell questionable beauty creams or unhealthy foods
+
+there is power in doing sth 固定句式， 做某事威力巨大
+tie A to B 把A和B绑定在一起
+controversy n 争论 controversies 
+erupt erupted 爆发 v
+emerge 浮现，出现 v
+as 随着，当...时
+tactic 战术，手段 n
+cream 奶油，乳脂（护肤）
+通过体验和观察，像DB这样的社会科学家已经学会，通过残酷的调查把确定行为和习惯性的提示绑在一起的力量是巨大的。随着这个新的习惯科学的出现，当这个策略被使用在销售有问题的美丽护肤或者不健康的食物，争论就已经爆发了
 
 
 ### 31. According to Dr. Curtis, habits like hand washing with soap ____
